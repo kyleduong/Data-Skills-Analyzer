@@ -42,3 +42,4 @@ COPY skills_job_dim
 FROM 'C:\Users\kyled\Documents\PostgreSQL Projects\csv_files\skills_job_dim.csv'
 WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
 
+
